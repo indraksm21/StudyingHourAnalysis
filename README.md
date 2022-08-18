@@ -1,5 +1,7 @@
 Studying Hour VS Scores
 
+================================================
+
 Question:
 
 1. Does studying hour has infulence on the score that students achieve? (Hypotheis: yes, hour studying has influence on the score and vice versa)
@@ -7,6 +9,8 @@ Question:
 2. Predict the score of student that study for x amount of hour
 
 Dataset was obtained onlined in a form of .csv file, the table structure only contain number of hour studying and the score that the students get.
+
+================================================
 
 Step by Step Analysing Process
 
@@ -24,3 +28,5 @@ We can see from the visualization that Scores and Hours have a strong correlatio
 To further visualize this we can use a scatter plot
 ![Scatter Plot visualization](https://user-images.githubusercontent.com/98216564/185346505-2b9a6b7e-1e22-4a93-addb-c4d12f2a1777.png)
 As we can see from the scatter plot, hour and scores has a possitive correlation with each other.
+
+From this alone we can conclude that Hour has a storng positive correlation with the scores that a students get.
