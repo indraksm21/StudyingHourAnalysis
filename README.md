@@ -12,6 +12,14 @@ Dataset was obtained onlined in a form of .csv file, the table structure only co
 
 ================================================
 
+Achieved Task:
+
+1. Proof a strong correlation between hour of styding and scores
+
+2. Make a model to predict the score that a student get if they were studing 'x' amount of hour
+
+================================================
+
 Step by Step Analysing Process
 
 1. Importing Data and Cleaning Data
@@ -57,7 +65,9 @@ As we can see the predicted value come quite close the the actual value from the
 And we can check the accuracy of our model which is still high around 96%, and from this we completed our model training and testing, we can use our model to predict the scores that the students get if they were studying 'x' amount of hour
 ![Accuracy and Prediction](https://user-images.githubusercontent.com/98216564/185350245-154d1f5b-6d74-48ce-ad45-cbe855548173.png)
 
+Conclusion
 
+1. Yes, hour of studying has a strong influence witht he amount of score a student gets. The more hour student put into studying, the higher the score is.
 
 
 
